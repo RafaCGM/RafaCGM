@@ -1,6 +1,6 @@
 #  ♨️ raғa
 
-**`Web Developer`** **`Mobile Developer`**
+**`Web Developer`** **`Mobile Developer`** **`Back-End`**
 
 Beginner web developer, with main interest in back-end and mobile applications.
 I am currently a student of Internet Systems Technology in Brazil.
