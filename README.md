@@ -130,13 +130,13 @@ I am currently a student of Internet Systems Technology in Brazil.
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rafacgm&show_icons=true&theme=dark&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=rafacgm&show_icons=true&theme=merko&include_all_commits=true" 
 />
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="190" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacgm&theme=dark&layout=compact&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacgm&theme=merko&layout=compact&langs_count=9"
 />
 
 </p>
